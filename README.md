@@ -1,8 +1,11 @@
 # Zaribo-MK2.5 
 
 Store: https://zaribo.com
+
 Blog: https://zaribo.com/blog
+
 Github: https://github.com/Zaribo
+
 Thingiverse: https://www.thingiverse.com/zaribocom
 
 Welcome to our new members and greetings to existing ones. Hereby you will find the expected clarification about Zaribo Project. 
