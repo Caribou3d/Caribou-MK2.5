@@ -1,4 +1,4 @@
-# Zaribo-MK2.5 www.zaribo.org
+# Zaribo-MK2.5 www.zaribo.com
 
 Welcome to our new members and greetings to existing ones. Hereby you will find the expected clarification about Zaribo Project.
 
